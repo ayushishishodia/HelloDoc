@@ -22,7 +22,7 @@ medicine_options = {
     "pharmeasy": {
         "price": "₹25.02",
         "delivery": "1 day",
-        "url": "https://pharmeasy.in/online-medicine-order/dolo-650mg-strip-of-15-tablets-30860",
+        "url": "https://pharmeasy.in/online-medicine-order/dolo-650mg-strip-of-15-tablets-44140",
     },
 }
 
@@ -220,4 +220,3 @@ send_button = tk.Button(root, text="Send", command=send_message, font=("Arial", 
 send_button.pack(pady=5)
 
 root.mainloop()
-
